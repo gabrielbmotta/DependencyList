@@ -1,0 +1,21 @@
+utils_global.o: \
+ ../../../../Projects/MNE-CE/mne-cpp/libraries/utils/utils_global.cpp \
+ ../../../../Projects/MNE-CE/mne-cpp/libraries/utils/utils_global.h \
+ ../../../../Projects/MNE-CE/mne-cpp/libraries/utils/buildinfo.h \
+ ../../../../Programs/Qt5.15/5.15.2/gcc_64/include/QtCore/qglobal.h \
+ ../../../../Programs/Qt5.15/5.15.2/gcc_64/include/QtCore/qconfig.h \
+ ../../../../Programs/Qt5.15/5.15.2/gcc_64/include/QtCore/qtcore-config.h \
+ ../../../../Programs/Qt5.15/5.15.2/gcc_64/include/QtCore/qsystemdetection.h \
+ ../../../../Programs/Qt5.15/5.15.2/gcc_64/include/QtCore/qprocessordetection.h \
+ ../../../../Programs/Qt5.15/5.15.2/gcc_64/include/QtCore/qcompilerdetection.h \
+ ../../../../Programs/Qt5.15/5.15.2/gcc_64/include/QtCore/qtypeinfo.h \
+ ../../../../Programs/Qt5.15/5.15.2/gcc_64/include/QtCore/qsysinfo.h \
+ ../../../../Programs/Qt5.15/5.15.2/gcc_64/include/QtCore/qlogging.h \
+ ../../../../Programs/Qt5.15/5.15.2/gcc_64/include/QtCore/qflags.h \
+ ../../../../Programs/Qt5.15/5.15.2/gcc_64/include/QtCore/qatomic.h \
+ ../../../../Programs/Qt5.15/5.15.2/gcc_64/include/QtCore/qbasicatomic.h \
+ ../../../../Programs/Qt5.15/5.15.2/gcc_64/include/QtCore/qatomic_cxx11.h \
+ ../../../../Programs/Qt5.15/5.15.2/gcc_64/include/QtCore/qgenericatomic.h \
+ ../../../../Programs/Qt5.15/5.15.2/gcc_64/include/QtCore/qglobalstatic.h \
+ ../../../../Programs/Qt5.15/5.15.2/gcc_64/include/QtCore/qnumeric.h \
+ ../../../../Programs/Qt5.15/5.15.2/gcc_64/include/QtCore/qversiontagging.h
